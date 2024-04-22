@@ -12,10 +12,11 @@
 - How to become a Linux kernel developer (Article): https://medium.com/@azerella/how-to-become-a-linux-kernel-developer-20774c72ab07
 - Linux Kernel Programming (Youtube): https://www.youtube.com/playlist?list=PL2TXDotVKyDBEfWSKcePqRRCp9EehqDGF
 - Linux Kernel Development (Youtube): https://www.youtube.com/playlist?list=PLzdzGvHSawLgno6V0BuqBaMft2aZxHF0Z
-- 
+- Making Simple Linux Kernel Module in C (Youtube): https://youtu.be/SOo1rbnryeo?si=E2ETOps-P1Qb-Ng6
 
 ## Start With OS Dev
 - How to get started learning about OS development? (QA): https://www.reddit.com/r/osdev/comments/13y06cm/how_to_get_started_learning_about_os_development/
+- Dragon Zap Education (Book): https://youtu.be/UWvbKyihN84?si=UE0CGq8Bgd86bWbS
 
 ## Basics 
 - Write your own Operating System (Youtube): https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M
